@@ -1,4 +1,4 @@
-# AIFM - Age & Face Recognition Models
+# AIFM - Age Invariant Face Matching 
 
 ##  Project Reports
 
