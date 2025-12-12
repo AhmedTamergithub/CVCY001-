@@ -42,3 +42,17 @@ Follow these steps to run the AIFM system:
   - [`AIFM_Final_System.ipynb`](./AIFM_System_Integrated/AIFM_Final_System.ipynb) - Final integrated system with age prediction and face matching and mlp head
   - [`AIFM_System_inaccurate_vs_accurate.ipynb`](./AIFM_System_Integrated/AIFM_System_inaccurate_vs_accurate.ipynb) - Comparison of inaccurate vs accurate pipeline and showing how better to use MLP head after face embedding model rather than cosine similarity 
 
+---
+
+## 🔗 Models Drive Links
+
+The fine-tuned models are stored on Google Drive due to GitHub's file size limitations (.keras files are too large for GitHub):
+
+**[Access Models Folder](https://drive.google.com/drive/u/1/folders/1IFAxoaUX4-tdIA8PjXobN5sI3ZEz6DXS)**
+
+### Models:
+1. **resnet50_age_model.keras** - Fine-tuned ResNet50 model for age prediction
+2. **MLP_head.keras** - Fine-tuned MLP head model for face verification
+
+Download these files and place them in the appropriate directories within the project to run the integrated system.
+
