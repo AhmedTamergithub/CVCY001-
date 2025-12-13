@@ -76,7 +76,11 @@ Download these files and place them in the appropriate directories within the pr
 
 This section demonstrates how the AIFM system performs on different test samples:
 
-![Test Sample](./images/test_sample1.PNG)
+![Test Sample 1](./images/test_sample1.PNG)
+
+![Test Sample 2](./images/test_sample2.PNG)
+
+![Test Sample 3](./images/test_sample3.PNG)
 
 The system successfully demonstrates:
 - Age-invariant face matching across different ages
